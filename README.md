@@ -36,8 +36,10 @@ It is remarkable however that the correlation between retention and graduation i
 - .xlsx is the Excel file containing feature descriptions and more
 - .csv files are dataframes of various cleaning and processing stages derived from original data frame
 - original data frame is missing due to size constraints
-<br> </br>
-<br> </br>
+- original data frame MERGED2017_18_PP.csv can be found in https://catalog.data.gov/dataset/college-scorecard 
+CollegeScorecardRaw_Data.zip
+
+
 
 
 
